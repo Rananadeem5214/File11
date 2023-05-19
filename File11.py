@@ -6,5 +6,5 @@ except:
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from rana1 import menu(self)
-    menu(self)
+    from rana1 import Main
+    Main()
