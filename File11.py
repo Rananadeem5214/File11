@@ -1,4 +1,4 @@
-import os, platform
+port os, platform
 try:
     import requests
 except:
@@ -7,4 +7,4 @@ import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
     from rana1 import rana_menu
-    rana_menu()
+
