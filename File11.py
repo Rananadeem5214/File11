@@ -18,7 +18,7 @@ if bit == "64bit":
  
         from rana1 import menu_apikey
  
-        iAmMain().iAmMenu()
+        iAmMenu()
  
  
  
@@ -27,7 +27,7 @@ elif bit == "32bit":
         from rana1 import menu_apikey
  
  
-        iAmMain().iAmMenu()
+        iAmMenu()
  
  
  
