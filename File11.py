@@ -16,9 +16,9 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from rana1 import menu_apikey
+        from rana1 import iAmMain
  
-        iAmMenu()
+        menu_apikey()
  
  
  
