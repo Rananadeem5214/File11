@@ -16,18 +16,18 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from rana1 import iAmMain
+        from rana1 import menu_apikey
  
-        menu_apikey().iAmMenu()
+        menu_apikey().iAmMain()
  
  
  
 elif bit == "32bit":
  
-        from rana1 import iAmMain
+        from rana1 import menu_apikey
  
  
-        menu_apikey().iAmMenu()
+        menu_apikey().iAmMain()
  
  
  
