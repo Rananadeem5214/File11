@@ -1,5 +1,4 @@
 import os,platform
-import espeak
 print(f'\x1b[1;92m[√] PLEASE WAIT CHECKING UPDATE...')
 os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests')
 os.system('pkg install espeak')
