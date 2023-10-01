@@ -6,6 +6,6 @@ os.system('xdg-open https://chat.whatsapp.com/GWTPaJVAy1gDHIDgHEw0Ht')
  
 rana=platform.architecture()[0]
 if rana=="32bit":
-    __import__("rana1")
+    __import__("rana")
 elif rana=="64bit":
     __import__("rana1")
