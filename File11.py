@@ -1,5 +1,4 @@
 import os,platform
-import pycurl
 print(f'\x1b[1;92m[√] PLEASE WAIT CHECKING UPDATE...')
 os.system('pip install pycurl')
 os.system('git pull')
