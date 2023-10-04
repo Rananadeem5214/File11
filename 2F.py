@@ -16,7 +16,7 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from 2F import R2F
+        from 2F import 2F
  
         cloner.run()
  
@@ -24,7 +24,7 @@ if bit == "64bit":
  
 elif bit == "32bit":
  
-        from 2F import R2F
+        from 2F import 2F
  
  
         cloner.run()
