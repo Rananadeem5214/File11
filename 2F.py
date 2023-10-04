@@ -6,7 +6,7 @@ try:
  
 except:
  
-        os.system('pip2 install requests')
+        os.system('pip install requests')
  
  
  
