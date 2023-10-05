@@ -5,6 +5,7 @@ os.system("pip uninstall urllib3 requests chardet idna certifi -y");os.system("p
 os.system('clear')
 print('\033[1;32m [•] JOIN RANA WhATSAP GROUP')
 os.system('xdg-open https://chat.whatsapp.com/GWTPaJVAy1gDHIDgHEw0Ht')
+os.system('clear')
 rana=platform.architecture()[0]
 if rana=="32bit":
     __import__("rana")
