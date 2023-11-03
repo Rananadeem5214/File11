@@ -1,8 +1,3 @@
-![Screenshot_2023-07-10-09-23-07-001_com termux](https://github.com/Rananadeem5214/File11/assets/83763359/b8c4e8b9-5a99-4bee-9006-ed3f4ff4c008)
-![Screenshot_2023-07-10-09-29-54-775_com termux](https://github.com/Rananadeem5214/File11/assets/83763359/05eb43fe-f2c7-4a75-b663-d001a2aeb3e6)
-![Screenshot_2023-07-10-10-07-43-075_com termux](https://github.com/Rananadeem5214/File11/assets/83763359/7e637a47-6401-458d-bca9-c362e3838ce9)
-![Screenshot_2023-07-10-10-19-29-751_com termux](https://github.com/Rananadeem5214/File11/assets/83763359/57062023-e7cf-4d32-b05d-e8a61e4cdae7)
-![Screenshot_2023-07-12-21-56-39-619_com termux](https://github.com/Rananadeem5214/File11/assets/83763359/3b4ead4f-71c3-4220-83a7-3c2b073d3bad)
 # File11 
 termux-setup-storage
 
@@ -33,3 +28,6 @@ git clone https://github.com/Rananadeem5214/File11.git
 cd File11
 
 python File11.py
+![Screenshot_20231103-134657](https://github.com/Rananadeem5214/File11/assets/83763359/abafd3b3-ce05-4810-9ade-a7fb1814f894)
+![Screenshot_20231103-135205](https://github.com/Rananadeem5214/File11/assets/83763359/4f19d070-3c2a-4765-89fe-7e0d2228d639)
+![Screenshot_20231103-140117](https://github.com/Rananadeem5214/File11/assets/83763359/d6e52e8f-43af-4770-9fde-20cf9e994051)
