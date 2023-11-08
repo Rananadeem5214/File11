@@ -1,6 +1,7 @@
 import os,platform
 print(f'\x1b[1;92m[√] PLEASE WAIT CHECKING UPDATE...')
 os.system('git pull')
+os.system("clear")
 print(f'\x1b[1;92m[√] MISSING MODULED INSTALING...')
 os.system("pkg install espeak -y")
 os.system('pip uninstall bs4')
