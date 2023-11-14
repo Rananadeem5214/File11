@@ -1,2 +1,2 @@
-def paid():
+def paid1():
 	Paid = on()
