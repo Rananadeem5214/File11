@@ -1,2 +1,2 @@
-code1 = "en_US"
-loc1 = "US"
+def paid():
+	Paid = aprv()
