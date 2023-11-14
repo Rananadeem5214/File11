@@ -1,2 +1,2 @@
 def paid():
-	Paid = aprv()
+	Paid = on()
