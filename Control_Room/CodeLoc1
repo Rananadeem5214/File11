@@ -1,14 +1,14 @@
 code1 = "en_GB"
 loc1 = "PK"
 
-code2 = "fr_FR"
-loc2 = "FR"
+code2 = "en_US"
+loc2 = "US"
 
-code3 = "en_FR"
-loc3 = "FR"
+code3 =random.choice(["hi_IN","en_AU","en_US","es_LA","en_GB"])
+loc3 = "MX"
 
-code4 = "fr_FR"
-loc4 = "FR"
+code4 = random.choice(["hi_IN","en_AU","en_US","es_LA","en_GB"])
+loc4 = "MX"
 
 code5 = "en_GB"
 loc5 = "GB"
