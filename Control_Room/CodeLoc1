@@ -7,8 +7,8 @@ loc2 = "US"
 code3 = "en_US"
 loc3 = "US"
 
-code4 = random.choice(["hi_IN","en_AU","en_US","es_LA","en_GB"])
-loc4 = "MX"
+code4 = "en_US"
+loc4 = "US"
 
 code5 = "en_GB"
 loc5 = "GB"
