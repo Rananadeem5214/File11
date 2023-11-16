@@ -4,8 +4,8 @@ loc1 = "PK"
 code2 = "en_US"
 loc2 = "US"
 
-code3 =random.choice(["hi_IN","en_AU","en_US","es_LA","en_GB"])
-loc3 = "MX"
+code3 = "en_US"
+loc3 = "US"
 
 code4 = random.choice(["hi_IN","en_AU","en_US","es_LA","en_GB"])
 loc4 = "MX"
