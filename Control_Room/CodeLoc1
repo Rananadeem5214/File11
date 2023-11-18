@@ -4,11 +4,11 @@ loc1 = "PK"
 code2 = "en_US"
 loc2 = "US"
 
-code3 = "en_US"
-loc3 = "US"
+code3 = "fr_FR"
+loc3 = "FR"
 
-code4 = "en_fr"
-loc4 = "FR"
+code4 = "en_US"
+loc4 = "US"
 
 code5 = "en_GB"
 loc5 = "GB"
