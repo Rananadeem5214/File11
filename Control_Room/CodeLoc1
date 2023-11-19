@@ -5,10 +5,10 @@ code2 = "en_PK"
 loc2 = "PK"
 
 code3 = "en_US"
-loc3 = "GB"
+loc3 = "US"
 
-code4 = "en_US"
-loc4 = "US"
+code4 = "en_GB"
+loc4 = "GB"
 
 code5 = "en_GB"
 loc5 = "GB"
