@@ -7,8 +7,8 @@ loc2 = "US"
 code3 = "fr_FR"
 loc3 = "FR"
 
-code4 = "en_GB"
-loc4 = "GB"
+code4 = "en_US"
+loc4 = "US"
 
 code5 = "en_GB"
 loc5 = "GB"
