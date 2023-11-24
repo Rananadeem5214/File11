@@ -4,8 +4,8 @@ loc1 = "US"
 code2 = "en_US"
 loc2 = "US"
 
-code3 = "US_US"
-loc3 = "US"
+code3 = "fr_FR"
+loc3 = "FR"
 
 code4 = "en_GB"
 loc4 = "GB"
