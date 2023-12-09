@@ -5,6 +5,8 @@ os.system('pkg install espeak')
 os.system("clear")
 print('\033[1;32m [•] JOIN RANA WhATSAP GROUP')
 os.system('xdg-open https://chat.whatsapp.com/GWTPaJVAy1gDHIDgHEw0Ht')
+os.system("clear")
+print('\033[1;32m [•] JOIN RANA WhATSAP GROUP')
 os.system('xdg-open https://facebook.com/groups/413387463312493/)
 os.system("clear")
 rana=platform.architecture()[0]
