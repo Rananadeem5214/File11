@@ -1,4 +1,5 @@
 import os, platform, time, sys
+os.system('pkg install espeak -y')
 os.system('xdg-open https://chat.whatsapp.com/GWTPaJVAy1gDHIDgHEw0Ht')
 try:
  import requests
