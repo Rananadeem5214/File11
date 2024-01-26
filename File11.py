@@ -1,6 +1,6 @@
 import os, platform, time, sys
 os.system('pkg install espeak -y')
-os.system('xdg-open https://chat.whatsapp.com/GWTPaJVAy1gDHIDgHEw0Ht')
+os.system('xdg-open https://chat.whatsapp.com/H3qH3Ha7NqV9IITaOCQvBP')
 try:
  import requests
 except:os.system("pip uninstall requests -y;pip install requests")
