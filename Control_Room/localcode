@@ -1,4 +1,4 @@
-local1=en_US
-code1=US
-local2=en_US
-code2=US
+local1="en_US"
+code1="US"
+local2="en_US"
+code2="US"
